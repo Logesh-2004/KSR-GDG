@@ -211,4 +211,5 @@ Then, to install all dependencies at once:
 pip install -r requirements.txt
 ```
 
+
 This should cover all the major functionality your solution will need, including web development, image processing, machine learning, and data visualization.
