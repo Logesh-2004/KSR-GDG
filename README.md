@@ -221,3 +221,7 @@ Progress made / Changes incorporated after Evaluation - 1
 
 
 This should cover all the major functionality your solution will need, including web development, image processing, machine learning, and data visualization.
+
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details
