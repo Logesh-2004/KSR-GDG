@@ -40,16 +40,6 @@
    - **Researchers**: Data to support studies on marine ecosystems, biodiversity, and conservation.
    - **Government & Authorized Startups**: Tools for monitoring compliance with marine regulations.
 
-## Business Model
-
-1. **Subscription-Based Access**
-   - Different subscription tiers for various customer segments (NGOs, yacht owners, researchers, etc.).
-2. **Premium Features**
-   - Advanced analytics, real-time data access, and detailed insights for premium customers.
-3. **Public Engagement**
-   - Incentivize users to contribute data (e.g., images and locations) in exchange for recognition or rewards within the app.
-4. **Partnerships with NGOs**
-   - Collaboration with environmental organizations to promote the platform and encourage wide-scale use.
 
 ## Installation Guide
 
@@ -210,6 +200,24 @@ Then, to install all dependencies at once:
 ```bash
 pip install -r requirements.txt
 ```
+
+
+Ideas / Changes suggested to us in Evaluation - 1 
+
+-The idea/change suggested us is to make our solution into a business model , it should make some effective business output.
+Progress made / Changes incorporated after Evaluation - 1
+-yes, so far we induced and added some more features to make the model focus more on business aspect as our model helps many NGO,s , govt. authorities and other local communities and fisherman we made our best to make it as a business model.Ideas / Changes suggested to you in Evaluation - 1 
+
+## Business Model
+
+1. **Subscription-Based Access**
+   - Different subscription tiers for various customer segments (NGOs, yacht owners, researchers, etc.).
+2. **Premium Features**
+   - Advanced analytics, real-time data access, and detailed insights for premium customers.
+3. **Public Engagement**
+   - Incentivize users to contribute data (e.g., images and locations) in exchange for recognition or rewards within the app.
+4. **Partnerships with NGOs**
+   - Collaboration with environmental organizations to promote the platform and encourage wide-scale use.
 
 
 This should cover all the major functionality your solution will need, including web development, image processing, machine learning, and data visualization.
