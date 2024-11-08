@@ -53,32 +53,26 @@
 
 ## Installation Guide
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-repository/oceanic-plastic-detection
-   cd oceanic-plastic-detection
-   ```
-
-2. **Install Dependencies**
+1. **Install Dependencies**
    - Install required libraries using `pip`:
      ```bash
      pip install -r requirements.txt
      ```
 
-3. **Set Up the Database**
+2. **Set Up the Database**
    - Configure and initialize the database (SQLite or preferred database).
    - Set up tables for storing image data, GPS coordinates, and species data.
 
-4. **Run the Flask App**
+3. **Run the Flask App**
    - Start the Flask app to serve the backend:
      ```bash
      python app.py
      ```
 
-5. **Deploy the Frontend**
+4. **Deploy the Frontend**
    - Set up the frontend to display the heatmap and breeding season visualizations.
 
-6. **Test the System**
+5. **Test the System**
    - Test the app to ensure that the camera, GPS, and data upload functionalities are working correctly.
    - Verify the heatmap and breeding season visualizations on the dashboard.
 
